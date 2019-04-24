@@ -1,0 +1,13 @@
+E:\Temp\PGTest\PGTest\bin\Debug\PGTest.exe.config
+E:\Temp\PGTest\PGTest\bin\Debug\PGTest.exe
+E:\Temp\PGTest\PGTest\bin\Debug\PGTest.pdb
+E:\Temp\PGTest\PGTest\bin\Debug\Npgsql.dll
+E:\Temp\PGTest\PGTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Temp\PGTest\PGTest\obj\x86\Debug\PGTest.Properties.Resources.resources
+E:\Temp\PGTest\PGTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Temp\PGTest\PGTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Temp\PGTest\PGTest\obj\x86\Debug\PGTest.exe
+E:\Temp\PGTest\PGTest\obj\x86\Debug\PGTest.pdb
+E:\Temp\PGTest\PGTest\obj\x86\Debug\PGTest.Form1.resources
+E:\Temp\PGTest\PGTest\bin\Debug\Mono.Security.dll
+E:\Temp\PGTest\PGTest\bin\Debug\zh-CN\Npgsql.resources.dll
